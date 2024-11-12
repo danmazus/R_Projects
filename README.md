@@ -1,2 +1,5 @@
 # R Data Science Projects and Programs
  Programs and Projects used in Undergraduate studies within Data Science using R and RMarkdown within RStudio. These included both categorical and non-categorical data analysis using different tools such as Machine Learning programs (XGBoost, Random Forests, Boosted Trees, Kmeans, etc.), GLMs and Logistic Models, and other models relating to data analysis.
+
+## Project 1
+This project was in collaboration with 2 other individuals during the Data Science 2 course at Shippensburg University. This project looked at a Sephora Dataset and used Logistic Regression with looking at individual parameters and then using backwards, forwards and stepwise selection to determine relevant parameters. We then used a logistic regression model that was trained and tested on the dataset after splitting. We compared this logistic regression model to a Decision Tree and Bagged Tree machine learning model to determine differences in parameter selection and to see if there was a best model out of the 3. In this folder has the R file that was ran in RStudio, the .qmd file, and the PDF that was compiled for submission. 
